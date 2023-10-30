@@ -1,0 +1,146 @@
+.container1{
+   
+    top: 100%;
+    width: 100%;
+    height: 100%;
+    left: 100%;
+}
+.Gusto {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 10em;
+    font-size: 90px;
+    font: bold;
+    font-family: 'Rochester', cursive;
+    color:aliceblue
+}
+
+#img1 {
+    text-align: center;
+    /* filter: drop-shadow(30px 10px 4px #4444dd);*/
+
+    filter: grayscale(30%);
+
+
+}
+
+.Res {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: red;
+    text-align: center;
+   
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    height: 100%;
+    font-size: 30px;
+    text-align: center;
+    /* position: fixed;
+    top: 0; */
+
+
+}
+
+.navbar a {
+
+    color: white;
+    text-decoration: none;
+    padding: 14px;
+
+
+}
+.sec{
+    text-align: center;
+    font-size: 50px;
+    text-decoration:solid;
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+   
+}
+.part{
+    display: inline-block;
+    padding:-10px;
+    /* margin-right: 20px; */
+    margin: -10px;
+   
+    
+}
+.container2{
+    text-align: center ;
+}
+
+.dolor{
+    font-size: 30px;
+}
+.container3 {
+  background-color: gainsboro;
+  margin-left: 40px;
+  margin-right: 40px;
+  display: inline-block;
+  
+}
+.container3 h2{
+    padding-top: 150px;
+    text-align: center;
+    margin-left: 70px;
+    
+    
+}
+.container4{
+    display: inline-block;
+    text-align: center;
+    
+}
+.container4 div{ 
+    text-align: left;   
+    padding: 30px;
+    display: inline-block;
+}
+.container5{
+    display: inline-block;
+    
+}
+.container5 div{
+   /* text-align: left;
+    display: inline-block; */
+       
+}
+.container6{
+    display: inline-block;
+    width: 95%;
+    text-align: center;
+    background-color: #333;
+    /* padding: 300px; */
+margin-right: -20px;
+}
+.container6 div{ 
+      
+    padding-left: 110px;
+    padding-right: 165px;
+    display: inline-block;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inputs{
+    text-align: center;
+   margin-right:150px;
+   
+}
+#submit:hover
+{
+   background-color: red;
+}
+.tt{
+    width: 350px;
+   text-align: justify;
+   margin-left: 40px;
+}
